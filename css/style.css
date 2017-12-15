@@ -1,0 +1,17 @@
+body {
+	font-family: 'Spectral SC', serif;
+}
+
+.jumbotron {
+	background-color: #aaa;
+	border-bottom: 1px solid grey;
+}
+
+/*table {
+	border-bottom: 1px solid grey;
+	padding: 20px;
+}*/
+
+th {
+	font-weight: bolder;
+}
